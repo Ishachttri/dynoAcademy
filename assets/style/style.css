@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.whole {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  background-color: blue;
+  height: 80px;
+}
+.left img {
+  padding: 20px;
+}
+.middle ul {
+  list-style-type: none;
+  display: flex;
+  padding: 29px;
+}
+.middle li a {
+  color: black;
+  padding: 20px;
+  margin: 20px;
+}
+.right ul {
+  list-style-type: none;
+  display: flex;
+  padding: 29px;
+}
+.right li a {
+  color: black;
+  padding: 20px;
+}
