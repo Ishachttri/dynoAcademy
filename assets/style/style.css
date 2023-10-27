@@ -4,7 +4,7 @@
 }
 .whole-container {
   background-color: #073763;
-  height: 100vh;
+  height: 150vh;
   width: 100%;
 }
 
@@ -65,7 +65,8 @@ button:hover {
 }
 .text {
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
+  justify-content: space-around;
   padding: 80px;
   color: #fff;
 }
@@ -78,7 +79,7 @@ button:hover {
   font-weight: 600px;
   line-height: 80px;
 }
-.text-1 {
+.text h4 {
   width: 525px;
   height: 40px;
   line-height: 40px;
@@ -86,11 +87,7 @@ button:hover {
     Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
     Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
 }
-.right-image {
-  display: flex;
-  justify-content: right;
-  /* align-items: flex-start; */
-}
+
 .right-image img {
   height: 260px;
   width: 235px;
