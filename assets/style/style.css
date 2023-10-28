@@ -123,3 +123,18 @@ button:hover {
   font-size: larger;
   color: #073763;
 }
+.first-word p {
+  font-size: 13px;
+  margin-top: 5px;
+}
+.second-word p {
+  font-size: 13px;
+  margin-top: 5px;
+}
+.third-word p {
+  font-size: 13px;
+  margin-top: 5px;
+}
+.whole-box {
+  display: flex;
+}
