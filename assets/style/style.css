@@ -141,5 +141,24 @@ button:hover {
 .right-image img {
   width: 350px;
   height: 350px;
-  padding-left: 140px;
+  padding-left: 170px;
+}
+/* .right-image */
+.left-paragraph h3 {
+  padding: 0px 0px 0px 60px;
+  font-size: 30px;
+  font-family: ui -sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  width: 74%;
+  color: #073763;
+  line-height: 2rem;
+  font-family: 1.5rem;
+}
+.left-paragraph p {
+  padding: 20px 0px 20px 60px;
+  font-family: ui -sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  width: 585px;
 }
