@@ -238,3 +238,24 @@ button:hover {
   font-size: 0.875rem;
   line-height: 1.25rem;
 }
+.course-image {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px 0px 0px 0px;
+}
+.first-course img {
+  height: 217px;
+  width: 362px;
+  border-radius: 5px;
+}
+.second-course img {
+  height: 217px;
+  width: 362px;
+  border-radius: 5px;
+}
+.third-course img {
+  height: 217px;
+  width: 362px;
+  border-radius: 5px;
+}
