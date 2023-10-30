@@ -195,6 +195,7 @@ button:hover {
   width: 100%;
   background-color: #073763;
   margin: 50px 0px 0px 0px;
+  display: flex;
 }
 
 .learn-paragraph {
@@ -212,9 +213,7 @@ button:hover {
   width: 200px;
   padding: 40px 0px 0px 250px;
 }
-.learn {
-  display: flex;
-}
+
 .learn-paragraph button {
   width: 205px;
   height: 48px;
@@ -222,6 +221,7 @@ button:hover {
   background-color: #15803d;
   border: none;
   font-size: 20px;
+  border-radius: 5px;
 }
 .available-course {
   text-align: center;
@@ -242,7 +242,15 @@ button:hover {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: 20px 0px 0px 0px;
+  padding: 20px 0px 0px 70px;
+}
+.first-course {
+  box-shadow: 0px 15px 50px #141414;
+  height: 300px;
+}
+.first-course:hover {
+  cursor: pointer;
+  background-color: #c4c0c0;
 }
 .first-course img {
   height: 217px;
@@ -254,8 +262,45 @@ button:hover {
   width: 362px;
   border-radius: 5px;
 }
+.second-course {
+  box-shadow: 0px 15px 50px #141414;
+  height: 300px;
+}
+.second-course:hover {
+  cursor: pointer;
+  background-color: #c4c0c0;
+}
 .third-course img {
   height: 217px;
   width: 362px;
   border-radius: 5px;
+}
+.third-course {
+  box-shadow: 0px 15px 50px #141414;
+  height: 300px;
+}
+.third-course:hover {
+  cursor: pointer;
+  background-color: #c4c0c0;
+}
+.first-paragraph p {
+  font-family: ui -sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  width: 350px;
+  padding: 20px 0px 0px 10px;
+}
+.second-paragraph p {
+  font-family: ui -sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  width: 350px;
+  padding: 20px 0px 0px 10px;
+}
+.third-paragraph p {
+  font-family: ui -sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  width: 350px;
+  padding: 20px 0px 0px 10px;
 }
