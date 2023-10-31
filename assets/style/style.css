@@ -309,6 +309,9 @@ button:hover {
   height: 350px;
   width: 100%;
   background-color: #073763;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 .first-div {
   padding: 20px;
