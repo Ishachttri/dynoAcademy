@@ -2,16 +2,27 @@
   margin: 0;
   padding: 0;
 }
+a {
+  text-decoration: none;
+  color: #fff;
+}
+li {
+  list-style-type: none;
+}
+p {
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
 .whole-container {
   background-color: #073763;
-  height: 110vh;
-  width: 100%;
+  /* height: 70vh; */
 }
 
 .whole {
   display: flex;
   justify-content: space-between;
-  align-items: end;
+  align-items: center;
   background-color: #073763;
   height: 80px;
   box-shadow: 0px -5px 50px #141414;
@@ -30,9 +41,6 @@
   margin: 20px;
   text-decoration: none;
   font-weight: bold;
-  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
-    Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
-    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
 }
 . .right {
   list-style-type: none;
@@ -50,11 +58,11 @@
     Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
     Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
 }
-button.right-1 {
+.right-1 {
   border: 1.8px solid white;
   background-color: #073763;
 }
-button.right-2 {
+.right-2 {
   border: 1.8px solid white;
   background-color: #15803d;
 }
@@ -160,9 +168,9 @@ button:hover {
 }
 .left-paragraph p {
   padding: 20px 0px 20px 60px;
-  font-family: ui -sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+  /* font-family: ui -sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
     Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
-    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji; */
   width: 585px;
 }
 
@@ -253,14 +261,12 @@ button:hover {
   background-color: #c4c0c0;
 }
 .first-course img {
-  height: 217px;
+  /* height: 217px; */
   width: 362px;
-  border-radius: 5px;
 }
 .second-course img {
-  height: 217px;
+  /* height: 217px; */
   width: 362px;
-  border-radius: 5px;
 }
 .second-course {
   box-shadow: 0px 15px 50px #141414;
@@ -271,9 +277,8 @@ button:hover {
   background-color: #c4c0c0;
 }
 .third-course img {
-  height: 217px;
+  /* height: 217px; */
   width: 362px;
-  border-radius: 5px;
 }
 .third-course {
   box-shadow: 0px 15px 50px #141414;
@@ -327,4 +332,16 @@ button:hover {
     Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
     Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
   font-size: 16px;
+}
+.head-second-div h3 {
+  color: #fff;
+}
+.about {
+  padding: 35px 0px 0px 0px;
+}
+.links-second-div h3 {
+  color: #fff;
+}
+.payment-forth-div h3 {
+  color: #fff;
 }
