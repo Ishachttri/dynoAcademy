@@ -347,9 +347,11 @@ button:hover {
 }
 .about li {
   padding: 5px;
+  line-height: 2;
 }
 .quick li {
   padding: 5px;
+  line-height: 2;
 }
 .dunoacademy li {
   padding: 5px;
@@ -371,4 +373,5 @@ button:hover {
 
 .dunoacademy img {
   height: 30px;
+  margin: 0px 14px;
 }
