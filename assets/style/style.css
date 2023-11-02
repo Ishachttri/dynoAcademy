@@ -319,10 +319,11 @@ button:hover {
   align-items: center;
 }
 .first-div {
-  padding: 20px;
+  padding: 10px;
 }
 .first-div img {
-  padding-bottom: 20px;
+  padding-bottom: 10px;
+  margin-bottom: 30px;
 }
 .first-div p {
   height: 90px;
@@ -332,14 +333,25 @@ button:hover {
     Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
     Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
   font-size: 16px;
+  line-height: 25px;
 }
+
 .head-second-div h3 {
   color: #fff;
+  margin-bottom: 30px;
+}
+.about li {
+  padding: 5px;
+}
+.quick li {
+  padding: 5px;
 }
 
 .links-second-div h3 {
   color: #fff;
+  margin-bottom: 30px;
 }
 .payment-forth-div h3 {
   color: #fff;
+  margin-bottom: 30px;
 }
