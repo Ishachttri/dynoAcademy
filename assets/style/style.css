@@ -477,6 +477,7 @@ button:hover {
   background-color: #fef9c3;
   padding: 50px 0px 0px 0px;
 }
+
 .join-affilate-program h3 {
   font-size: 30px;
   text-align: center;
@@ -504,6 +505,10 @@ button:hover {
   font-family: ui -sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
     Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
     Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+.btn button:hover {
+  cursor: pointer;
+  background-color: #259b50;
 }
 .faq {
   font-size: 14px;
