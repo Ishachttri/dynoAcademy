@@ -647,9 +647,7 @@ button:hover {
 .rule p {
   line-height: 2;
 }
-.contact {
-  /* display: flex; */
-}
+
 .contact-div h1 {
   text-align: center;
   padding: 40px 0px 0px 0px;
@@ -669,7 +667,6 @@ button:hover {
 .help-contact-second {
   display: flex;
   justify-content: space-evenly;
-  border: 2px solid green;
 }
 .Need-help h1 {
   font-family: ui -sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
@@ -705,12 +702,15 @@ button:hover {
   font-weight: 700;
   font-size: 14px;
 }
+.all-contact {
+  text-align: center;
+}
 .contact-us {
   height: 400px;
   width: 400px;
   background-color: #073763;
   border-radius: 6px;
-  padding: 50px 50px;
+  padding: 96px 48px 96px 48px;
   height: 25rem;
 }
 .contact-us p {
