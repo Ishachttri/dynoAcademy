@@ -647,3 +647,19 @@ button:hover {
 .rule p {
   line-height: 2;
 }
+.contact-div h1 {
+  text-align: center;
+  padding: 40px 0px 0px 0px;
+  font-family: ui -sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  font-size: 2.25rem;
+}
+.contact-div p {
+  text-align: center;
+  padding: 10px 0px 0px 0px;
+
+  font-family: ui -sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
