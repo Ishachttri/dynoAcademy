@@ -359,7 +359,7 @@ button:hover {
   padding: 20px 0px 0px 10px;
 }
 
-.footer {
+.foott {
   background-color: #073763;
   padding: 50px;
 }
@@ -664,6 +664,10 @@ button:hover {
     Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
     Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
 }
+.contact-second {
+  text-align: center;
+  margin-top: 90px;
+}
 .help-contact-second {
   display: flex;
   justify-content: space-evenly;
@@ -706,17 +710,20 @@ button:hover {
   text-align: center;
 }
 .contact-us {
-  height: 400px;
-  width: 400px;
+  width: 300px;
   background-color: #073763;
   border-radius: 6px;
+  margin: 40px 0px 40px 0px;
   padding: 96px 48px 96px 48px;
-  height: 25rem;
 }
-.contact-us p {
+.contact-us {
   font-size: 1.25rem;
   color: #fff;
-  text-align: center;
+  text-transform: capitalize;
+}
+
+.cont p {
+  font-weight: bold;
 }
 
 .material-symbols-outlined {
@@ -745,4 +752,30 @@ button:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.blog-post h4 {
+  padding: 40px 0px 0px 20px;
+  font-size: 30px;
+  font-family: Montserrat, sans-serif !important;
+  color: #073763;
+}
+.one-flex-div {
+  padding: 23px 0px 0px 23px;
+}
+
+.one-flex-div img {
+  height: 200px;
+}
+.time-nd {
+  display: flex;
+}
+.one-flex {
+  padding: 40px 0px 0px 23px;
+  display: inline;
+}
+.time-nd p {
+  padding: 0px 0px 0px 13px;
+}
+.one-flex h1 {
+  display: block;
 }
