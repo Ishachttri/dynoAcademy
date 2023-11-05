@@ -293,6 +293,7 @@ button:hover {
 .first-course {
   box-shadow: 0px 15px 50px #141414;
   height: 300px;
+  border-radius: 5px;
 }
 
 .first-course:hover {
@@ -301,18 +302,19 @@ button:hover {
 }
 
 .first-course img {
-  /* height: 217px; */
   width: 362px;
+  border-radius: 5px 5px 0 0;
 }
 
 .second-course img {
-  /* height: 217px; */
   width: 362px;
+  border-radius: 5px 5px 0 0;
 }
 
 .second-course {
   box-shadow: 0px 15px 50px #141414;
   height: 300px;
+  border-radius: 5px;
 }
 
 .second-course:hover {
@@ -321,13 +323,14 @@ button:hover {
 }
 
 .third-course img {
-  /* height: 217px; */
   width: 362px;
+  border-radius: 5px 5px 0 0;
 }
 
 .third-course {
   box-shadow: 0px 15px 50px #141414;
   height: 300px;
+  border-radius: 5px;
 }
 
 .third-course:hover {
