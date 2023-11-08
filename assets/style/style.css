@@ -4,19 +4,16 @@
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
     Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
     Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
-
 }
 
 a {
   text-decoration: none;
-  color: #fff;
-
+  color: white;
 }
 
 li {
   list-style-type: none;
 }
-
 
 .whole-container {
   background-color: #073763;
@@ -61,7 +58,6 @@ li {
   height: 35px;
   border-radius: 4px;
   font-weight: bold;
-
 }
 
 .right-1 {
@@ -107,7 +103,6 @@ button:hover {
   width: 525px;
   height: 40px;
   line-height: 40px;
-
 }
 
 .right-image img {
@@ -221,7 +216,6 @@ button:hover {
 }
 
 .learn-paragraph {
-
   width: 585px;
   padding: 70px;
   font-size: 1.125rem;
@@ -321,19 +315,16 @@ button:hover {
 }
 
 .first-paragraph p {
-
   width: 350px;
   padding: 20px 0px 0px 10px;
 }
 
 .second-paragraph p {
-
   width: 350px;
   padding: 20px 0px 0px 10px;
 }
 
 .third-paragraph p {
-
   width: 350px;
   padding: 20px 0px 0px 10px;
 }
@@ -369,15 +360,12 @@ button:hover {
 .head-second-div h3 {
   color: #fff;
   margin-bottom: 30px;
-
 }
 
 .second-div:hover {
   cursor: pointer;
   color: #141414;
 }
-
-
 
 .about li {
   padding: 5px;
@@ -426,7 +414,6 @@ button:hover {
   font-size: 16px;
   margin: 20px 0px;
   padding: 20p;
-
 }
 
 .referal-link h5 {
@@ -435,7 +422,6 @@ button:hover {
   font-weight: 500;
   margin: 20px 0px;
   padding: 20p;
-
 }
 
 .join-affilate-program {
@@ -469,7 +455,6 @@ button:hover {
   border: none;
   font-size: 14px;
   text-transform: capitalize;
-
 }
 
 .btn button:hover {
@@ -480,11 +465,9 @@ button:hover {
 .faq {
   font-size: 14px;
   font-weight: 599px;
-
 }
 
 .enrolling-program {
-
   margin: 25px 0;
   background-color: #fff7ed;
   padding: 25px 15px;
@@ -500,7 +483,6 @@ button:hover {
 }
 
 .friend-invite {
-
   /* text-align: center; */
   margin: 25px 0;
   background-color: #fff7ed;
@@ -517,7 +499,6 @@ button:hover {
 }
 
 .get-reward {
-
   /* text-align: center; */
   margin: 25px 0;
   background-color: #fff7ed;
@@ -534,7 +515,6 @@ button:hover {
 }
 
 .tagged {
-
   /* text-align: center; */
   margin: 25px 0;
   background-color: #fff7ed;
@@ -551,7 +531,6 @@ button:hover {
 }
 
 .share-link {
-
   /* text-align: center; */
   margin: 25px 0;
   background-color: #fff7ed;
@@ -568,7 +547,6 @@ button:hover {
 }
 
 .withdrawal {
-
   /* text-align: center; */
   margin: 25px 0;
   background-color: #fff7ed;
@@ -585,7 +563,6 @@ button:hover {
 }
 
 .referral {
-
   /* text-align: center; */
   margin: 25px 0;
   background-color: #fff7ed;
@@ -602,7 +579,6 @@ button:hover {
 }
 
 .rule {
-
   /* text-align: center; */
   margin: 25px 0;
   background-color: #fff7ed;
@@ -628,8 +604,6 @@ button:hover {
 .contact-div p {
   text-align: center;
   padding: 10px 0px 0px 0px;
-
-
 }
 
 .contact-second {
@@ -642,18 +616,14 @@ button:hover {
   justify-content: space-evenly;
 }
 
-
-
 .Need-help p {
   padding: 10px 0px 0px 0px;
-
 }
 
 .join-group {
   display: flex;
   padding: 50px 0px 0px 0px;
 }
-
 
 .join-group button {
   width: 100px;
