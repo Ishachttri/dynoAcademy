@@ -17,7 +17,6 @@ li {
   list-style-type: none;
 }
 
-p {}
 
 .whole-container {
   background-color: #073763;
@@ -378,9 +377,7 @@ button:hover {
   color: #141414;
 }
 
-.links-second-div h3 {}
 
-.payment-forth-div h3 {}
 
 .about li {
   padding: 5px;
@@ -645,7 +642,7 @@ button:hover {
   justify-content: space-evenly;
 }
 
-.Need-help h1 {}
+
 
 .Need-help p {
   padding: 10px 0px 0px 0px;
@@ -657,7 +654,6 @@ button:hover {
   padding: 50px 0px 0px 0px;
 }
 
-.join-group h1 {}
 
 .join-group button {
   width: 100px;
