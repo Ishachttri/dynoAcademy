@@ -17,6 +17,7 @@ li {
 
 .whole-container {
   background-color: #073763;
+  height: 800px;
 }
 
 .whole {
@@ -110,10 +111,6 @@ button:hover {
   width: 235px;
 }
 
-.button {
-  padding: 80px;
-}
-
 .button button {
   height: 60px;
   width: 300px;
@@ -168,20 +165,16 @@ button:hover {
   border-radius: 50%;
 }
 
-.left-paragraph h3 {
-  padding: 0px 0px 0px 60px;
-  font-size: 30px;
+.left-paragraph {
+  width: 585px;
+  padding: 70px;
+}
 
-  width: 74%;
+.left-paragraph h3 {
+  font-size: 30px;
   color: #073763;
   line-height: 2rem;
   font-family: 1.5rem;
-}
-
-.left-paragraph p {
-  padding: 20px 0px 20px 60px;
-  /*  */
-  width: 585px;
 }
 
 .material-symbols-outlined {
