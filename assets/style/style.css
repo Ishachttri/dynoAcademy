@@ -608,7 +608,9 @@ button:hover {
   display: flex;
   justify-content: space-evenly;
 }
-
+.Need-help {
+  color: #141414;
+}
 .Need-help p {
   padding: 10px 0px 0px 0px;
 }
@@ -616,6 +618,7 @@ button:hover {
 .join-group {
   display: flex;
   padding: 50px 0px 0px 0px;
+  color: #141414;
 }
 
 .join-group button {
